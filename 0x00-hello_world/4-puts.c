@@ -2,8 +2,7 @@
 
 /**
 ** main - print the string in the put function 
-*
-** Return: 0
+** Return:0
 ** and output it 
 **/
 
