@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
-** main - print the string in the put function 
+** main - print the string in the put function
 ** Return:0
-** and output it 
+** and output it
 **/
 
 int main(void)
