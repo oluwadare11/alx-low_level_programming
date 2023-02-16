@@ -6,7 +6,7 @@
  *
  **description: 'to display a string using the write method'
  *
- **Return: 1
+ **Return: Always 0 (Success)
  **/
 
 int main(void)
