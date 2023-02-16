@@ -3,7 +3,8 @@
 /**
 ** main - print the string in the put function 
 *
-** and output it in 4-puts.c
+** Return: 0
+** and output it 
 **/
 
 int main(void)
