@@ -5,7 +5,7 @@
 /**
  * main - print whether the number stored in
  * the variable n is positive or negative
- * Return: Always 0.
+ * Return: Always 0
 
 */
 
