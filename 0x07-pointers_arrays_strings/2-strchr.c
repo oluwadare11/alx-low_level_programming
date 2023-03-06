@@ -3,7 +3,7 @@
 /**
  * _strchr - locate character in the string
  * @s: source of the string
- * @c character to be found
+ * @c: character to be found
  *
  * Return: the character from string found
  */
