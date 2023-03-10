@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
 	}
 	else
 	{
-		printf("ERROR\n")
-				return (1)
+		printf("ERROR\n");
+		return (1);
 	}
 }
