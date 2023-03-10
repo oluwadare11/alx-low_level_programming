@@ -1,0 +1,8 @@
+#include "main.h"
+
+/**
+* main - create a static libary
+* Return: 0
+*/
+
+
