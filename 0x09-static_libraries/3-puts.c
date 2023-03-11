@@ -1,14 +1,17 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
-** main - print the string in the put function
-** Return:0
-** and output it
-**/
+ * _puts - Prints a string
+  * @s: The string to print
+  *
+  * Return: void
+  */
 
-int main(void)
+void _puts(char *s)
 {
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
-
+	while (*s != '\0')
+	{
+		_putchar(*s++);
+	}
+	_putchar('\n');
 }
